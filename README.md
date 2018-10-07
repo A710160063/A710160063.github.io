@@ -72,6 +72,8 @@
     <h4> Keguruan dan Ilmu Penddikan </h4>
     <h4> Menjadi orang yang bermanfaat bagi orang lain </h4>
   </div>
+   <img src="img1.jpg" style="width:400x;height:300px;">
+
 
   <div class="right">
     <h2>Animasi?</h2>
