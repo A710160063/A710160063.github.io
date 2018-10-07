@@ -53,7 +53,7 @@
   <font color="#FF1493">
  <h1>Assalammualaikum Wr. Wb</h1>
   <h3>Biodata</h3>
-  <img src="Sukmana.jpg.jpg" style="width:500px;height:600px;">
+  <img src="Sukmana.jpg" style="width:500px;height:600px;">
 </div>
 
 <div style="overflow:auto"> 
