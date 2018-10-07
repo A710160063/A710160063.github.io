@@ -53,7 +53,7 @@
   <font color="#FF1493">
  <h1>Assalammualaikum Wr. Wb</h1>
   <h3>Biodata</h3>
-  <img src="skm.jpg" style="width:400x;height:300px;">
+  <img src="dwi.jpg" style="width:400x;height:300px;">
 
 
 <div style="overflow:auto"> 
@@ -83,5 +83,5 @@
 </div>
 
 
-<div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> </div>
+<div style="background-color:#f1f1f1;text-align:center;padding:8px;margin-top:5px;font-size:10px;"> </div>
 
