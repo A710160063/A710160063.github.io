@@ -18,5 +18,3 @@ p    {color: red;}
 <p>Jurusan: Pendidikan Teknik Informatika</p>
 <p>Fakultas: Keguruan dan Ilmu Pendidikan</p>
 <p>Motto: Menjadi orang yang bermanfaat bagi orang lain</p>
-</body>
-</html>
