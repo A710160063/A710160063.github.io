@@ -52,7 +52,7 @@
 <div style="background-color:#f1f1f1;padding:15px;">
   <h1>Assalammualaikum Wr. Wb</h1>
   <h3>Biodata</h3>
-  <img src="Sukmana.jpg" style="width:100%">
+  <img src="Sukmana.jpg.jpg" style="width:100%">
 </div>
 
 <div style="overflow:auto">
