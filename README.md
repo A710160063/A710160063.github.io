@@ -12,7 +12,7 @@
 }
 .menuitem {
   padding: 8px;
-  margin-top: 7px;
+  margin-top: 5px;
   border-bottom: 1px solid #f1f1f1;
 }
 .main {
