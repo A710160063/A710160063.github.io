@@ -53,7 +53,7 @@
   <font color="#FF1493">
  <h1>Assalammualaikum Wr. Wb</h1>
   <h3>Biodata</h3>
-  <img src="Sukmana.jpg.jpg" style="width:100%">
+  <img src="Sukmana.jpg.jpg" style="width:500px;height:600px;">
 </div>
 
 <div style="overflow:auto"> 
@@ -67,10 +67,10 @@
 
   <div class="main">
     <h3>Sukmana Dwi Lestari</h3>
-    <h3>Pati, 02 Desember 1997</h3>
-    <h3>Pendidikan Teknik Informatika</h3>
-    <h3> Keguruan dan Ilmu Penddikan </h3>
-    <h3> Menjadi orang yang bermanfaat bagi orang lain </h3>
+    <p>Pati, 02 Desember 1997</p>
+    <p>Pendidikan Teknik Informatika</p>
+    <p> Keguruan dan Ilmu Penddikan </p>
+    <p> menjadi orang yang bermanfaat bagi orang lain </p>
   </div>
 
   <div class="right">
