@@ -11,8 +11,7 @@
 <p>TTL: Pati, 02 Desember 1997</p>
 <p>Jurusan: Pendidikan Teknik Informatika</p>
 <p>Fakultas: Keguruan dan Ilmu Pendidikan</p>
-<p>Motto: Menjadi orang yang bermanfaat bagi orang lain</p>
-
+  <p>Motto: Menjadi orang yang bermanfaat bagi orang lain</p>
 </body>
 </html>
 
