@@ -67,10 +67,10 @@
 
   <div class="main">
     <h3>Sukmana Dwi Lestari</h3>
-    <p>Pati, 02 Desember 1997</p>
-    <p>Pendidikan Teknik Informatika</p>
-    <p> Keguruan dan Ilmu Penddikan </p>
-    <p> menjadi orang yang bermanfaat bagi orang lain </p>
+    <h3>Pati, 02 Desember 1997</h3>
+    <h3>Pendidikan Teknik Informatika</h3>
+    <h3> Keguruan dan Ilmu Penddikan </h3>
+    <h3> menjadi orang yang bermanfaat bagi orang lain </h3>
   </div>
 
   <div class="right">
