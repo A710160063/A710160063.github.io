@@ -1,5 +1,4 @@
 # A710160063.github.io
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -51,36 +50,39 @@
 <body style="font-family:Verdana;">
 
 <div style="background-color:#f1f1f1;padding:15px;">
-  <h1>Cinque Terre</h1>
-  <h3>Resize the browser window</h3>
+  <h1>Assalammualaikum Wr. Wb</h1>
+  <h3>Biodata</h3>
+  <img src="Sukmana.jpg" style="width:100%">
 </div>
 
 <div style="overflow:auto">
   <div class="menu">
-    <div class="menuitem">The Walk</div>
-    <div class="menuitem">Transport</div>
-    <div class="menuitem">History</div>
-    <div class="menuitem">Gallery</div>
+    <div class="menuitem">Nama</div>
+    <div class="menuitem">TTL</div>
+    <div class="menuitem">Jurusan</div>
+    <div class="menuitem">Fakultas</div>
+    <div class="menuitem">Motto</div>
   </div>
 
   <div class="main">
-    <h2>The Walk</h2>
-    <p>The walk from Monterosso to Riomaggiore will take you approximately two hours, give or take an hour depending on the weather conditions and your physical shape.</p>
-    <img src="img_5terre.jpg" style="width:100%">
+    <h3>Sukmana dwi Lestari</h3>
+    <p>Pati, 02 Desember 1997</p>
+    <p>Pendidikan Teknik Informatika</p>
+    <p> Keguruan dan Ilmu Penddikan </p>
+    <p> menjadi orang yang bermanfaat bagi orang lain </p>
   </div>
 
   <div class="right">
-    <h2>What?</h2>
-    <p>Cinque Terre comprises five villages: Monterosso, Vernazza, Corniglia, Manarola, and Riomaggiore.</p>
-    <h2>Where?</h2>
-    <p>On the northwest cost of the Italian Riviera, north of the city La Spezia.</p>
-    <h2>Price?</h2>
-    <p>The Walk is free!</p>
+    <h2>Animasi?</h2>
+    <p>Kata animasi berasal dari kata animation yang berasal dari kata dasar to anime di dalam kamus Indonesia inggris berarti menghidupkan. Secara umum animasi merupakan suatu kegiatan menghidupkan,menggerakkan benda mati. Suatu benda mati diberi dorongan, kekuatan, semangat dan emosi untuk menjadi hidup atau hanya berkesan hidup. </p>
+    <h2>jenis animasi</h2>
+    <p>Animasi 2D adalah penciptaan gambar bergerak dalam lingkungan dua dimensi. Hal ini dilakukan dengan urutan gambar berturut-turut, atau “frame”, yang mensimulasikan gerak oleh setiap gambar menunjukkan berikutnya dalam perkembangan bertahap langkah-langkah.</p>
+      <p>Animasi 3D adalah objek animasi yang berada pada ruang 3D. Objek animasi ini dapat dirotasi dan berpindah seperti objek riil.</p>
   </div>
 </div>
 
 
-<div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> This web page is a part of a demonstration of fluid web design made by w3schools.com. Resize the browser window to see the content respond to the resizing.</div>
+<div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> </div>
 
 </body>
 </html>
