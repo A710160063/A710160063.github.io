@@ -72,9 +72,7 @@
     <h4> Keguruan dan Ilmu Penddikan </h4>
     <h4> Menjadi orang yang bermanfaat bagi orang lain </h4>
   </div>
-   <img src="img1.jpg" style="width:400x;height:300px;">
-
-
+ 
   <div class="right">
     <h2>Animasi?</h2>
     <p>Kata animasi berasal dari kata animation yang berasal dari kata dasar to anime di dalam kamus Indonesia inggris berarti menghidupkan. Secara umum animasi merupakan suatu kegiatan menghidupkan,menggerakkan benda mati. Suatu benda mati diberi dorongan, kekuatan, semangat dan emosi untuk menjadi hidup atau hanya berkesan hidup. </p>
