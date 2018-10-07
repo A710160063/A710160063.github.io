@@ -83,5 +83,5 @@
 </div>
 
 
-<div style="background-color:#f1f1f1;text-align:center;padding:12px;margin-top:5px;font-size:15px;"> </div>
+<div style="background-color:#f1f1f1;text-align:center;padding:14px;margin-top:2px;font-size:16px;"> </div>
 
