@@ -53,8 +53,8 @@
   <font color="#FF1493">
  <h1>Assalammualaikum Wr. Wb</h1>
   <h3>Biodata</h3>
-  <img src="erisky.jpg" style="width:100px;height:200px;">
-</div>
+  <img src="erisky.jpg" style="width:4000x;height:3000px;">
+
 
 <div style="overflow:auto"> 
   <div class="menu">
@@ -67,10 +67,10 @@
 
   <div class="main">
     <h3>Sukmana Dwi Lestari</h3>
-    <p>Pati, 02 Desember 1997</p>
-    <p>Pendidikan Teknik Informatika</p>
-    <p> Keguruan dan Ilmu Penddikan </p>
-    <p> menjadi orang yang bermanfaat bagi orang lain </p>
+    <h3>Pati, 02 Desember 1997</h3>
+    <h3>Pendidikan Teknik Informatika</h3>
+    <h3> Keguruan dan Ilmu Penddikan </h3>
+    <h3> Menjadi orang yang bermanfaat bagi orang lain </h3>
   </div>
 
   <div class="right">
@@ -85,5 +85,3 @@
 
 <div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> </div>
 
-</body>
-</html>
