@@ -50,13 +50,13 @@
 <body style="font-family:Verdana;">
 
 <div style="background-color:#f1f1f1;padding:15px;">
-  <font color="#FF1493"
+  <font color="#FF1493">
  <h1>Assalammualaikum Wr. Wb</h1>
   <h3>Biodata</h3>
   <img src="Sukmana.jpg.jpg" style="width:100%">
 </div>
 
-<div style="overflow:auto"> <font color="#DC143C">
+<div style="overflow:auto"> 
   <div class="menu">
     <div class="menuitem">Nama</div>
     <div class="menuitem">TTL</div>
@@ -66,7 +66,6 @@
   </div>
 
   <div class="main">
-  <font color="#DC143C">
     <h3>Sukmana Dwi Lestari</h3>
     <p>Pati, 02 Desember 1997</p>
     <p>Pendidikan Teknik Informatika</p>
